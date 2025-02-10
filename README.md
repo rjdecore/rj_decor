@@ -1,4 +1,4 @@
-# rjdecor
+# rjdecore
 <h1 align="center">Hi, I'm Rituraj Singh 👋</h1>
 <h3 align="center">A Data Scientist & Data Analyst</h3>
 
@@ -19,7 +19,7 @@
 ## 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rjdecor&show_icons=true&theme=dark" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjdecor&theme=dark" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjdecore&theme=dark" alt="GitHub Streak" width="400"/>
 </p>
 
 ## 📫 Contact Me
