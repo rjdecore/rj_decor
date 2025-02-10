@@ -1,4 +1,3 @@
-Md
 # Hi there! 👋  
 Welcome to my GitHub profile! I'm *Rituraj Singh*, a Data Scientist and Data Analyst.  
 
@@ -12,38 +11,33 @@ Welcome to my GitHub profile! I'm *Rituraj Singh*, a Data Scientist and Data Ana
 ## 🛠️ Tech Stack  
 
 ### *Languages & Tools*  
-| Skills  | GIFs |
+| Skill  | Icon |
 |---------|------|
-| *Python* 🐍 | ![Python](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif) |
-| *SQL* 🗄️ | ![SQL](https://media.giphy.com/media/UQJlZ2wru3xLi/giphy.gif) |
-| *Pandas* 🐼 | ![Pandas](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif) |
-| *Matplotlib* 📊 | ![Matplotlib](https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif) |
-| *Seaborn* 🎨 | ![Seaborn](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif) |
-| *Power BI* 📈 | ![Power BI](https://media.giphy.com/media/l46CkATpdyLwLI7vi/giphy.gif) |
-| *Machine Learning* 🤖 | ![Machine Learning](https://media.giphy.com/media/UQJNePa6BTdhK/giphy.gif) |
-| *Deep Learning* 🧠 | ![Deep Learning](https://media.giphy.com/media/VJjog7P80GVgY/giphy.gif) |
-| *Statistics* 📊 | ![Statistics](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) |
+| *Python* 🐍 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| *SQL* 🗄️ | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| *Pandas* 🐼 | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) |
+| *Matplotlib* 📊 | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) |
+| *Seaborn* 🎨 | ![Seaborn](https://img.shields.io/badge/-Seaborn-0081A5?style=flat&logo=plotly&logoColor=white) |
+| *Power BI* 📈 | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
+| *Machine Learning* 🤖 | ![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white) |
+| *Deep Learning* 🧠 | ![DL](https://img.shields.io/badge/-Deep%20Learning-00599C?style=flat&logo=tensorflow&logoColor=white) |
+| *Statistics* 📊 | ![Statistics](https://img.shields.io/badge/-Statistics-4CAF50?style=flat&logo=googleanalytics&logoColor=white) |
+
+---
 
 ## 📂 Projects  
 
-### 🔹 *Data Analysis with Python*  
-🔗 **[Zomato Sales Analysis](https://github.com/rjdecor/Zomato-Sales-Analysis)**  
-📌 *Description:* Analyzed Zomato restaurant data to find sales trends & customer preferences.
+### 🔹 [Data Analysis with Python Projects](https://github.com/rjdecor?tab=repositories&q=python&type=source)  
+(Click the link to view my Python-based data analysis projects!)  
 
-🔗 **[Super Store Sales Analysis](https://github.com/rjdecor/Super-Store-Sales)**  
-📌 *Description:* Analyzed retail store sales using Pandas and Power BI.
+### 🔹 [SQL Projects](https://github.com/rjdecor?tab=repositories&q=sql&type=source)  
+(Click the link to view my SQL projects!)  
 
-### 🔹 *SQL Projects*  
-🔗 **[Flight Analysis](https://github.com/rjdecor/Flight-Analysis)**  
-📌 *Description:* Used SQL queries to analyze flight delays, prices & patterns.
+### 🔹 [Power BI Projects](https://github.com/rjdecor?tab=repositories&q=powerbi&type=source)  
+(Click the link to view my Power BI dashboards & reports!)  
 
-### 🔹 *Power BI Projects*  
-🔗 **[AWS Sales Dashboard](https://github.com/rjdecor/AWS-Sales-Dashboard)**  
-📌 *Description:* Created a Power BI dashboard to visualize AWS cloud sales.
-
-### 🔹 *Machine Learning Projects*  
-🔗 **[Loan Classification Model](https://github.com/rjdecor/Loan-Classification)**  
-📌 *Description:* Built a classification model to predict loan approval using ML.
+### 🔹 [Machine Learning & Deep Learning Projects](https://github.com/rjdecor?tab=repositories&q=ml&type=source)  
+(Click the link to view my ML & DL projects!)  
 
 ---
 
@@ -53,8 +47,10 @@ Welcome to my GitHub profile! I'm *Rituraj Singh*, a Data Scientist and Data Ana
   <img src="https://streak-stats.demolab.com?user=rjdecor&theme=tokyonight" alt="GitHub Streak" width="400"/>  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjdecor&theme=tokyonight" alt="GitHub Summary" width="500"/>  
 </p>
-## 📬 Contact Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/rjdecor)  
-[![Email](https://img.shields.io/badge/Email-Send%20a%20Mail-red?logo=gmail)](mailto:your-email@gmail.com)
 
+---
+
+## 📬 Contact Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rjdecor)  
+[![Email](https://img.shields.io/badge/Email-Send%20Me%20a%20Mail-red?style=for-the-badge&logo=gmail)](mailto:rajritu301@gmail.com)
