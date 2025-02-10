@@ -1,4 +1,4 @@
-# rj_decor
+# rjdecor
 <h1 align="center">Hi, I'm Rituraj Singh 👋</h1>
 <h3 align="center">A Data Scientist & Data Analyst</h3>
 
