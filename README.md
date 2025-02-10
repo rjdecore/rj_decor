@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm *Rituraj Singh*, a Data Scientist and Data Ana
 ### 🔹 [Power BI Projects](https://github.com/rjdecor?tab=repositories&q=powerbi&type=source)  
 (Click the link to view my Power BI dashboards & reports!)  
 
-### 🔹 [Machine Learning & Deep Learning Projects](https://github.com/rjdecor?tab=repositories&q=ml&type=source)  
+### 🔹 [Machine Learning & Deep Learning Projects](https://github.com/rjdecore/Machine-Learning-Project)  
 (Click the link to view my ML & DL projects!)  
 
 ---
