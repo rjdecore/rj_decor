@@ -1,28 +1,59 @@
-# rjdecore
-<h1 align="center">Hi, I'm Rituraj Singh 👋</h1>
-<h3 align="center">A Data Scientist & Data Analyst</h3>
+# Hi there! 👋  
+Welcome to my GitHub profile! I'm *Rituraj Singh*, a Data Scientist and Data Analyst.  
 
-<img src="https://your-profile-image-url" alt="Profile Image" width="300" style="border-radius: 50%; display: block; margin: auto;">
+## 🚀 About Me  
+- 🔭 Working on Machine Learning & Deep Learning  
+- 📊 Data Visualization: Power BI, Matplotlib, Seaborn  
+- 📚 Learning AI and Advanced Analytics  
 
-## 🚀 About Me
-🔹 Passionate Data Scientist & Data Analyst with expertise in *Python, SQL, Power BI, and Machine Learning*.  
-🔹 Strong background in *data visualization, predictive modeling, and analytics*.  
-🔹 Always eager to *learn, explore, and solve real-world data problems*.
+---
 
-## 🛠️ Tech Stack
-- *Programming:* Python, SQL  
-- *Data Analysis:* Pandas, NumPy, Matplotlib, Seaborn  
-- *Machine Learning:* Scikit-learn, TensorFlow  
-- *Visualization:* Power BI, Tableau  
-- *Tools:* Git, Excel, Jupyter Notebook  
+## 🛠️ Tech Stack  
 
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rjdecor&show_icons=true&theme=dark" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjdecore&theme=dark" alt="GitHub Streak" width="400"/>
-</p>
+### *Languages & Tools*  
+| Skills  | GIFs |
+|---------|------|
+| *Python* 🐍 | ![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif) |
+| *SQL* 🗄️ | ![SQL](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif) |
+| *Pandas* 🐼 | ![Pandas](https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif) |
+| *Matplotlib* 📊 | ![Matplotlib](https://media.giphy.com/media/JUu2X5p9jyViQ/giphy.gif) |
+| *Seaborn* 🎨 | ![Seaborn](https://media.giphy.com/media/3o6ZsYm5nHMZoGPe5a/giphy.gif) |
+| *Power BI* 📈 | ![Power BI](https://media.giphy.com/media/j1suFARsP6y9W/giphy.gif) |
 
-## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rj_decor)
-[![Email](https://img.shields.io/badge/Email-Send%20Me%20a%20Mail-red?style=for-the-badge&logo=gmail)](mailto:rajritu301@gmail.com)
+---
+
+## 📂 Projects  
+
+### 🔹 *Data Analysis with Python*  
+🔗 **[Zomato Sales Analysis](https://github.com/rjdecor/Zomato-Sales-Analysis)**  
+📌 *Description:* Analyzed Zomato restaurant data to find sales trends & customer preferences.
+
+🔗 **[Super Store Sales Analysis](https://github.com/rjdecor/Super-Store-Sales)**  
+📌 *Description:* Analyzed retail store sales using Pandas and Power BI.
+
+### 🔹 *SQL Projects*  
+🔗 **[Flight Analysis](https://github.com/rjdecor/Flight-Analysis)**  
+📌 *Description:* Used SQL queries to analyze flight delays, prices & patterns.
+
+### 🔹 *Power BI Projects*  
+🔗 **[AWS Sales Dashboard](https://github.com/rjdecor/AWS-Sales-Dashboard)**  
+📌 *Description:* Created a Power BI dashboard to visualize AWS cloud sales.
+
+### 🔹 *Machine Learning Projects*  
+🔗 **[Loan Classification Model](https://github.com/rjdecor/Loan-Classification)**  
+📌 *Description:* Built a classification model to predict loan approval using ML.
+
+---
+
+## 📈 GitHub Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=rjdecor&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjdecor&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rjdecor&show_icons=true&theme=tokyonight)  
+
+---
+
+## 📬 Contact Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/rjdecor)  
+[![Email](https://img.shields.io/badge/Email-Send%20a%20Mail-red?logo=gmail)](mailto:your-email@gmail.com)
+
