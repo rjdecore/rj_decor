@@ -49,11 +49,10 @@ Welcome to my GitHub profile! I'm *Rituraj Singh*, a Data Scientist and Data Ana
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rjdecor&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjdecor&theme=tokyonight" alt="GitHub Streak" width="400"/>  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rjdecor&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>  
+  <img src="https://streak-stats.demolab.com?user=rjdecor&theme=tokyonight" alt="GitHub Streak" width="400"/>  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rjdecor&theme=tokyonight" alt="GitHub Summary" width="500"/>  
 </p>
-
 ## 📬 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/rjdecor)  
