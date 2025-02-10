@@ -18,8 +18,8 @@
 
 ## 📊 My GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rj_decor&show_icons=true&theme=dark" alt="GitHub Stats" width="400"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rj_decor&theme=dark" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rj-decor&show_icons=true&theme=dark" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rj-decor&theme=dark" alt="GitHub Streak" width="400"/>
 </p>
 
 ## 📫 Contact Me
