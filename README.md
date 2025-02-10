@@ -14,14 +14,15 @@ Welcome to my GitHub profile! I'm *Rituraj Singh*, a Data Scientist and Data Ana
 ### *Languages & Tools*  
 | Skills  | GIFs |
 |---------|------|
-| *Python* 🐍 | ![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif) |
-| *SQL* 🗄️ | ![SQL](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif) |
-| *Pandas* 🐼 | ![Pandas](https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif) |
-| *Matplotlib* 📊 | ![Matplotlib](https://media.giphy.com/media/JUu2X5p9jyViQ/giphy.gif) |
-| *Seaborn* 🎨 | ![Seaborn](https://media.giphy.com/media/3o6ZsYm5nHMZoGPe5a/giphy.gif) |
-| *Power BI* 📈 | ![Power BI](https://media.giphy.com/media/j1suFARsP6y9W/giphy.gif) |
-
----
+| *Python* 🐍 | ![Python](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif) |
+| *SQL* 🗄️ | ![SQL](https://media.giphy.com/media/UQJlZ2wru3xLi/giphy.gif) |
+| *Pandas* 🐼 | ![Pandas](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif) |
+| *Matplotlib* 📊 | ![Matplotlib](https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif) |
+| *Seaborn* 🎨 | ![Seaborn](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif) |
+| *Power BI* 📈 | ![Power BI](https://media.giphy.com/media/l46CkATpdyLwLI7vi/giphy.gif) |
+| *Machine Learning* 🤖 | ![Machine Learning](https://media.giphy.com/media/UQJNePa6BTdhK/giphy.gif) |
+| *Deep Learning* 🧠 | ![Deep Learning](https://media.giphy.com/media/VJjog7P80GVgY/giphy.gif) |
+| *Statistics* 📊 | ![Statistics](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) |
 
 ## 📂 Projects  
 
